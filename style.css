@@ -359,7 +359,8 @@ projects
 }
 
 .word__link:hover{
-color: #dcdfe6;
+color: rgb(134, 0, 251);
+text-decoration: underline;
 }
 .project__description--para{
     margin: 16px 0;
