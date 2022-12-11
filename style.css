@@ -357,6 +357,10 @@ projects
     margin-right:16px;
     
 }
+
+.word__link:hover{
+color: #dcdfe6;
+}
 .project__description--para{
     margin: 16px 0;
 }

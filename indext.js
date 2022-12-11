@@ -49,7 +49,7 @@ function contact(event) {
         }).catch(() => {
             loading.classList.remove('modal__overlay--visible')
             alert(
-                'The email service is temporarily down, please contact me at Fahadadsani@gmail.com'
+                ''
             )
         })
 }
