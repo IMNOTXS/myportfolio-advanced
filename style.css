@@ -368,6 +368,9 @@ text-decoration: underline;
 .project__description--sub-title{
     margin-top: 8px;
 }
+.hulu__img{
+    transform: scale(1.05);
+}
 
 
 /* 
