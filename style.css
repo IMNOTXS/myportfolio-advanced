@@ -303,6 +303,9 @@ projects
     transition: all 600ms ease;
     transform: scale(1.03);
 }
+.project__timg{
+    transform:scale(1.1)
+}
 .project__wrapper{
     position:relative;
     border-radius: 20px;
